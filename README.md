@@ -47,5 +47,3 @@ docs/  → Documentation, ERD, SQL scripts, PPT
 
 **Author:** Muhammad Sohaib  
 **Course:** Database Systems (5th Semester)
-```
-  
